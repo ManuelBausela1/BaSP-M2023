@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
     background-color: white;
 }
 
@@ -15,10 +15,6 @@ h2, h3 {
     color: #373867;
 }
 
-.menu {
-    display: none;
-}
-
 footer {
     text-align: center;
     position: relative;
@@ -29,67 +25,6 @@ footer {
 footer > img {
     width: 30px;
     margin-left: 15px;
-}
-
-.pag-pral {
-    margin-top: 70px;
-}
-
-.intro {
-    color: gray;
-}
-
-.subtitle {
-    font-size: 20px;
-}
-
-.gym {
-    position: relative;
-    left: 600px;
-    width: 450px;
-    top: -430px;
-}
-
-.form {
-    color: #373867;     
-    background-color: #AACE9B;     
-    border: none;     
-    border-radius: 5px;     
-    height: 50px;     
-    width: 150px;    
-    margin-top: 20px;
-}
-
-.app {
-    margin-top: -320px;
-    margin-bottom: 70px;
-    width: 150px;
-    height: 50px;
-    border-bottom: 6px solid #AACE9B;
-}
-
-.box-2 {
-    display: inline;
-}
-
-.content {
-    display: inline-block;
-    width: 550px;
-}
-
-.text-content {
-    display: inline-block;
-    width: 300px;
-    height: 250px;
-    position: relative;
-    top: 50px;
-    left: 15px;
-}
-
-.text {
-    width: 500px;
-    margin-top: 100px;
-    color: darkgrey;
 }
 
 .social-media {
@@ -103,8 +38,73 @@ footer > img {
     margin-left: 15px;
 }
 
-.cont {
-    margin-bottom: 40px;
+.menu {
+    display: none;
+}
+
+.pag-pral {
+    margin-top: 70px;
+}
+
+.intro {
+    color: gray;
+}
+
+.text {
+    width: 500px;
+    margin-top: -10px;
+    color: darkgrey;
+}
+
+.form {
+    color: #373867;     
+    background-color: #AACE9B;     
+    border: none;     
+    border-radius: 5px;     
+    height: 50px;     
+    width: 150px;    
+    margin-top: 20px;
+}
+
+.gym {
+    position: relative;
+    left: 600px;
+    width: 450px;
+    top: -366px;
+}
+
+.app {
+    margin-top: -218px;
+    margin-bottom: 70px;
+    width: 150px;
+    height: 50px;
+    border-bottom: 6px solid #AACE9B;
+}
+
+.box-2 {
+    display: inline;
+}
+
+.content {
+    display: inline-block;
+    width: 550px;
+    margin-left: 40px;
+}
+
+.text-content {
+    display: inline-block;
+    width: 300px;
+    height: 250px;
+    position: relative;
+    top: 50px;
+    left: 15px;
+}
+
+.subtitle {
+    font-size: 20px;
+}
+
+.data {
     margin-top: 100px;
 }
 
@@ -134,10 +134,6 @@ footer > img {
     width: 900px;
     height: 200px;
 } 
-
-.data {
-    margin-top: 100px;
-}
 
 .data-2 {
     position: relative;
@@ -230,22 +226,61 @@ footer > img {
 }
 
 .box-5 {
-    margin-top: 45px;
     display: inline;
+    width: 545px;
+    
 }
 
-.list-2 {
+.content-5 {
     display: inline-block;
     width: 550px;
+    margin-left: 40px;
 }
 
-.text-list {
-    display: inline-block;
-    width: 202px;
-    height: 251px;
+.img-dum {
     position: relative;
-    top: -11px;
-    left: 24px;
+    top: 200px;
+}
+
+.content-dum {
+    position: relative;
+    left: 210px;
+    top: 22px;
+}
+
+.b-mem {
+    display: inline-block;
+    position: relative;
+}
+
+.img-black {
+    position: relative;
+    right: 20px;
+    top: 100px;
+}
+
+.content-black{
+    position: relative;
+    left: 210px;
+    top: -139px;
+}
+
+.img-classic {
+    position: relative;
+    left: -15px;
+}
+
+.content-classic {
+    position: relative;
+    left: 180px;
+    top: -183px;
+}
+
+.content-only {
+    position: relative;
+    left: 180px;
+    top: -172px;
+    
 }
 
 .pages {  
@@ -262,12 +297,6 @@ footer > img {
     height: 40px;     
     width: 60px;     
     margin-left: 15px; 
-}
-
-.b-memb {
-    position: relative;
-    right: 45px;
-    top: 70px;
 }
 
 .line {
