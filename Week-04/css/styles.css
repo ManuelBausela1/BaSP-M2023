@@ -1,0 +1,306 @@
+body {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+h1 {
+    color: darkgrey;
+    font-size: 20px;
+    height: 45px;
+    border-bottom: 6px solid #AACE9B;
+    width: 1085px;
+}
+
+h2, h3 {
+    color: #373867;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+    right: 200px;
+    top: 50px;
+}
+
+footer > img {
+    width: 30px;
+    margin-left: 15px;
+}
+
+.social-media {
+    position: relative;
+    left: 830px;
+    top: -70px;  
+}
+
+.social-media img {
+    width: 30px;
+    margin-left: 15px;
+}
+
+.menu {
+    display: none;
+}
+
+.pag-pral {
+    margin-top: 70px;
+}
+
+.intro {
+    color: gray;
+}
+
+.text {
+    width: 500px;
+    margin-top: -10px;
+    color: darkgrey;
+}
+
+.form {
+    color: #373867;     
+    background-color: #AACE9B;     
+    border: none;     
+    border-radius: 5px;     
+    height: 50px;     
+    width: 150px;    
+    margin-top: 20px;
+}
+
+.gym {
+    position: relative;
+    left: 600px;
+    width: 450px;
+    top: -366px;
+}
+
+.app {
+    margin-top: -218px;
+    margin-bottom: 70px;
+    width: 150px;
+    height: 50px;
+    border-bottom: 6px solid #AACE9B;
+}
+
+.box-2 {
+    display: inline;
+}
+
+.content {
+    display: inline-block;
+    width: 550px;
+    margin-left: 40px;
+}
+
+.text-content {
+    display: inline-block;
+    width: 300px;
+    height: 250px;
+    position: relative;
+    top: 50px;
+    left: 15px;
+}
+
+.subtitle {
+    font-size: 20px;
+}
+
+.data {
+    margin-top: 100px;
+}
+
+.my-form {
+    padding: 20px;
+    display: inline;
+}
+
+.my-form .form-group {
+    padding-bottom: 15px;
+}
+
+.my-form label {
+    display: block;
+} 
+
+.my-form input {
+    padding: 8px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}  
+
+.my-form input[type="text"], .my-form textarea {
+    padding: 8px;
+    width: 900px;
+    height: 200px;
+} 
+
+.data-2 {
+    position: relative;
+    left: 380px;
+    top: -68px;
+}
+
+.data-3 {
+    position: relative;
+    left: 750px;
+    top: -138px;
+}
+
+.data-4 {
+    position: relative;
+    top: -120px;
+}
+
+.data-4 > input {
+    width: 500px;
+}
+
+.data-5 {
+    position: relative;
+    top: -88px;
+} 
+
+.cl {
+    border-radius: 5px;
+    height: 30px;     
+    width: 130px; 
+}
+
+.send {
+    color: #373867;   
+    background-color: #AACE9B;     
+    border: none;     
+    border-radius: 5px;     
+    height: 30px;     
+    width: 130px; 
+    position: relative;
+    left: 100px;    
+}
+
+.history {
+    margin-top: 100px;
+}
+
+.paragraph {
+    border-left: 3px solid black;
+    font-size: 16px;
+    width: 1080px;
+    padding: 10px;
+}
+
+.box-3 {
+    display: inline-block
+}
+
+.text-origin {
+    width: 500px;
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+}
+
+.img-origin {
+    width: 500px;
+    margin-top: 25px;
+}
+
+.box-4 {
+    display: inline-block;
+    width: 500px;
+    margin-left: 50px;
+}
+
+.title-m {
+    border-bottom: 2px solid black;
+    line-height: 20px;
+    padding-bottom: 28px;
+}
+
+.txt-m {
+    width: 500px;
+}
+
+.img-m {
+    width: 500px;
+    padding-bottom: 35px;
+}
+
+.box-5 {
+    display: inline;
+    width: 545px;
+    
+}
+
+.content-5 {
+    display: inline-block;
+    width: 550px;
+    margin-left: 40px;
+}
+
+.img-dum {
+    position: relative;
+    top: 200px;
+}
+
+.content-dum {
+    position: relative;
+    left: 210px;
+    top: 22px;
+}
+
+.b-mem {
+    display: inline-block;
+    position: relative;
+}
+
+.img-black {
+    position: relative;
+    right: 20px;
+    top: 100px;
+}
+
+.content-black{
+    position: relative;
+    left: 210px;
+    top: -139px;
+}
+
+.img-classic {
+    position: relative;
+    left: -15px;
+}
+
+.content-classic {
+    position: relative;
+    left: 180px;
+    top: -183px;
+}
+
+.content-only {
+    position: relative;
+    left: 180px;
+    top: -172px;
+    
+}
+
+.pages {  
+    text-align: center;
+    position: relative;
+    right: 200px;
+}
+
+.pages > button{     
+    color: #AACE9B;     
+    border-color: #AACE9B;     
+    background-color: #ffffff;     
+    border-radius: 10px;     
+    height: 40px;     
+    width: 60px;     
+    margin-left: 15px; 
+}
+
+.line {
+    margin-top: 30px;
+    border-bottom: 6px solid #AACE9B;
+    width: 1085px;
+}
